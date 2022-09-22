@@ -1,0 +1,6 @@
+print("Nhập tên bạn:")
+name= input()
+print("Tên bạn nhập:",name)
+print(name.upper())
+print(name.lower())
+print(len(name))

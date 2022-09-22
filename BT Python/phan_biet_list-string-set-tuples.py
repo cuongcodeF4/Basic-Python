@@ -1,0 +1,12 @@
+#Tuples#
+s=(1,2,3,4,5)
+print(s)
+#String#
+x='12122121'
+print(x)
+#List#
+y=[1,2,3,4,5,6]
+print(y)
+#set#
+z={1,2,3,4,5}
+print(z)
